@@ -22,14 +22,6 @@
 
 ---
 
-## 📝 Projects
-- **CoupleSpace App (Android + Firebase)** – App giúp các cặp đôi tương tác khi ở xa.  
-- **Online Exam System (ASP.NET Core + SQL Server)** – Lịch thi, xáo câu/đáp án, chấm tự động.  
-- **DigiSport Shoe Store (ASP.NET Core MVC)** – Website cá nhân, Bootstrap 5, Firebase, EF Core.  
-- **Restaurant Management (Mobile)** – Nhóm 4 người, quản lý đơn và kho.
-
----
-
 ## 📈 Goals
 - Build deployable, real-world apps as a student.  
 - Master software architecture and clean coding practices.  
