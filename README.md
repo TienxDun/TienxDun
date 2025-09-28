@@ -29,16 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 📈 Goals  
 - Build deployable, real-world apps as a student.  
 - Master software architecture and clean coding practices.  
@@ -47,9 +37,9 @@
 ---
 
 ## 📫 Contact  
-[![Email](https://img.shields.io/badge/Email-your_email@example.com-red?logo=gmail&logoColor=white)](mailto:your_email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourlink-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlink)
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-black?logo=github)](https://github.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-your_email@example.com-red?logo=gmail&logoColor=white)](leutiendung.hht@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourlink-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/tiến-dũng-lều-45b765222])
+[![GitHub](https://img.shields.io/badge/GitHub-yourusername-black?logo=github)](https://github.com/TienxDun)
 
 ---
 
