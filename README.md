@@ -13,9 +13,7 @@
 
 ## 🚀 About Me
 
-> **📝 NOTE:**  
-> Tất cả các thông tin trong phần này là định hướng và mục tiêu trong tương lai, không phải đại diện cho tình trạng hiện tại. Vui lòng không hiểu nhầm đây là kỹ năng/sản phẩm mình đã hoàn thiện ở thời điểm hiện tại!  
->  
+> **📝 NOTE:**   
 > **English:** All info below represents future directions and ambitions, not current status! Please don't misunderstand these as already-achieved skills/products.
 
 ```typescript
