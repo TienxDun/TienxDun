@@ -13,6 +13,11 @@
 
 ## 🚀 About Me
 
+> **📝 NOTE:**  
+> Tất cả các thông tin trong phần này là định hướng và mục tiêu trong tương lai, không phải đại diện cho tình trạng hiện tại. Vui lòng không hiểu nhầm đây là kỹ năng/sản phẩm mình đã hoàn thiện ở thời điểm hiện tại!  
+>  
+> **English:** All info below represents future directions and ambitions, not current status! Please don't misunderstand these as already-achieved skills/products.
+
 ```typescript
 const TienxDun = {
     location: "Vietnam 🇻🇳",
@@ -79,56 +84,4 @@ const TienxDun = {
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TienxDun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TienxDun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Most Used Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TienxDun&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  
-  <a href="mailto:Leutiendung.hht@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  
-  <a href="https://linkedin.com/in/TienxDun">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <a href="https://twitter.com/TienxDun">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  
-  <a href="https://discord.gg/your-discord">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-  </a>
-
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
----
-
-<div align="center">
-  
-  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
-  
-  <br>
-  
-  **Happy Coding! 🚀**
-  
 </div>
