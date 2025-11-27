@@ -5,7 +5,6 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TienxDun&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/TienxDun?logo=github&style=for-the-badge&color=0969da&labelColor=302d41" alt="GitHub Followers" />
 </div>
 
