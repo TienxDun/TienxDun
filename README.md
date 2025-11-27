@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm TienxDun!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Tech+Innovator;Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Tech+Innovator;Problem+Solver" />
 </div>
 
 <div align="center">
@@ -13,62 +13,23 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full-Stack Developer from Vietnam 🇻🇳, specializing in building web applications with modern technologies. I love creating user-friendly interfaces and solving complex problems through code. My journey in programming started with basic HTML/CSS and has evolved to include full-stack development with various technologies.
-
-```typescript
-const TienxDun = {
-    location: "Vietnam 🇻🇳",
-    email: "Leutiendung.hht@gmail.com",
-    code: ["JavaScript", "TypeScript", "C#", "Java", "PHP", "HTML", "CSS"],
-    askMeAbout: ["Web Development", "Database Systems", "UI/UX", "Game Development"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue.js", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "SASS"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            dotnet: ["ASP.NET Core"],
-            databases: ["SQL Server", "MongoDB", "MySQL"]
-        },
-        tools: ["Git", "Docker", "Entity Framework", "Canvas API"]
-    },
-    currentFocus: "Building scalable web applications and exploring AI integration",
-    funFact: "I turn coffee into code and bugs into features! ☕🐛"
-};
-```
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TienxDun&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
-</div>
-
-🔭 Currently working on **Distributed Systems & Modern Web Apps**  
-🌱 Learning **AI/ML Integration, Advanced Database Technologies**  
-👯 Looking to collaborate on **Open Source Projects & Innovative Solutions**  
-💬 Ask me about **Full-Stack Development, Database Design, UI/UX**  
-⚡ Fun fact: **I can debug code while listening to music and drinking coffee! ☕🎵**
-
----
+I'm a passionate Full-Stack Developer from Ho Chi Minh City, Vietnam 🇻🇳, specializing in building robust web applications with modern technologies. I love creating user-friendly interfaces and solving complex problems through code. My journey in programming started with basic HTML/CSS and has evolved to include full-stack development, database systems, and exploring AI integration.
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=js,cs,java,php,html,css,python" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,cs,java,php,html,css" alt="Languages" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,vue,next,tailwind,bootstrap,sass" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,bootstrap,sass" alt="Frontend" />
 
 ### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql,postgresql" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql" alt="Backend" />
 
 ### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,docker,aws,vscode,linux" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" alt="Tools" />
 
 </div>
 
@@ -77,81 +38,115 @@ const TienxDun = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TienxDun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TienxDun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TienxDun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TienxDun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 </div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TienxDun&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</div>
+
+- 🤖 Exploring AI integration with web applications (Gemini API)
+- 🐳 Advanced Docker & containerization techniques
+- ☁️ Cloud platforms and deployment strategies
+- 📱 Mobile development with React Native
+- 🎯 Microservices architecture patterns
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎓 Distributed Database System (HUFLIT)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://php.net)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://microsoft.com/sql-server)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com)
+<table>
+<tr>
+<td width="50%">
 
-A comprehensive distributed database system for university management, featuring 3-site SQL Server architecture with MongoDB for audit logs. Built with Docker containers, PHP backend, and interactive charts.
+### 🎓 Distributed Database System
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://php.net) [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://microsoft.com/sql-server)
 
-**Tech Stack:** PHP, JavaScript, TSQL, CSS, Hack, PowerShell, Dockerfile  
-**Key Features:** Partitioned views, INSTEAD OF triggers, real-time statistics, CRUD operations  
-**Repository:** [Distributed_Database](https://github.com/TienxDun/Distributed_Database)
+A distributed database system for university management with 3-site SQL Server architecture, MongoDB audit logs, and Docker containerization.
 
----
+**[📦 Repository](https://github.com/TienxDun/Distributed_Database)**
 
-### 😂 Random Joke Generator
-A fun web app that generates random jokes, translates them to Vietnamese, and provides AI-powered explanations using Gemini models.
-
-**Tech Stack:** JavaScript, HTML, CSS  
-**Features:** JokeAPI integration, Google Translate, Gemini AI analysis, responsive design  
-**Repository:** [Joke_Generator](https://github.com/TienxDun/Joke_Generator)
-
----
+</td>
+<td width="50%">
 
 ### 🎬 Cinema Management System
-A full-featured cinema ticket booking system built with ASP.NET Core, featuring movie management, seat selection, and comprehensive reporting.
+[![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com) [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
 
-**Tech Stack:** C#, ASP.NET Core, Entity Framework, HTML, CSS, JavaScript, SQL Server  
-**Key Features:** Online booking, seat selection, voucher system, detailed reports, user management  
-**Repository:** [BanVeRapChieuPhim](https://github.com/TienxDun/BanVeRapChieuPhim)
+Full-featured cinema ticket booking system with seat selection, voucher management, and comprehensive reporting.
 
----
+**[📦 Repository](https://github.com/TienxDun/BanVeRapChieuPhim)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 😂 Random Joke Generator
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://javascript.com) [![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=flat&logo=google&logoColor=white)](https://ai.google)
+
+Interactive web app generating jokes with Vietnamese translation and AI-powered explanations using Gemini API.
+
+**[📦 Repository](https://github.com/TienxDun/Joke_Generator)** | **[🌐 Demo](https://tienxdun.github.io/Joke_Generator/)**
+
+</td>
+<td width="50%">
 
 ### 🏓 Pong Game
-Classic Pong game implementation with smooth gameplay, AI opponent, and responsive design.
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://javascript.com) [![HTML5 Canvas](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org)
 
-**Tech Stack:** JavaScript, HTML, CSS, HTML5 Canvas  
-**Features:** Mouse/keyboard controls, collision detection, scoring system, AI opponent  
-**Repository:** [Pong-Game](https://github.com/TienxDun/Pong-Game)
+Classic Pong game with smooth 60 FPS gameplay, intelligent AI opponent, and responsive design using HTML5 Canvas.
 
----
+**[📦 Repository](https://github.com/TienxDun/Pong-Game)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📚 E-TestHub
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/) [![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
+
+Online exam management platform with timed exams, automatic grading, and performance analytics for educational institutions.
+
+**[📦 Repository](https://github.com/TienxDun/E_TestHub)**
+
+</td>
+<td width="50%">
 
 ### 🎨 First UI Project
-My first web development project showcasing basic HTML and CSS skills, deployed on GitHub Pages.
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 
-**Tech Stack:** HTML, CSS, JavaScript  
-**Live Demo:** [First_Project_UI](https://tienxdun.github.io/First_Project_UI/)  
-**Repository:** [First_Project_UI](https://github.com/TienxDun/First_Project_UI)
+My first web development project showcasing responsive design and modern UI principles.
 
----
+**[📦 Repository](https://github.com/TienxDun/First_Project_UI)** | **[🌐 Demo](https://tienxdun.github.io/First_Project_UI/)**
 
-### 🏗️ DigitalHub UI (Java Project)
-A Java-based user interface for DigitalHub system, focusing on clean and efficient UI components.
-
-**Tech Stack:** Java  
-**Repository:** [DigitalHub_UI](https://github.com/TienxDun/DigitalHub_UI)
+</td>
+</tr>
+</table>
 
 ---
 
-### 📚 E-TestHub (Exam Management System)
-An online exam management platform for educational institutions.
-
-**Tech Stack:** C#, HTML, CSS, JavaScript, PowerShell  
-**Repository:** [E_TestHub](https://github.com/TienxDun/E_TestHub)
-
----
-
-## 📫 Get In Touch
+## 📫 Let's Connect!
 
 <div align="center">
 
@@ -161,8 +156,24 @@ An online exam management platform for educational institutions.
 
 </div>
 
+<div align="center">
+  <i>💡 Open for collaboration on interesting projects!</i>
+  <br/>
+  <i>📧 Feel free to reach out for freelance opportunities or just a tech chat!</i>
+</div>
+
 ---
 
-⭐ **If you like my work, give it a star!** ⭐
+<div align="center">
+  
+### ⭐ Show some love by starring some repositories! ⭐
 
-*This README is automatically updated with the latest project information from my repositories.*
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
+</div>
