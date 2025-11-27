@@ -104,7 +104,7 @@ Full-featured cinema ticket booking system with seat selection, voucher manageme
 
 Interactive web app generating jokes with Vietnamese translation and AI-powered explanations using Gemini API.
 
-**[📦 Repository](https://github.com/TienxDun/Joke_Generator)** | **[🌐 Demo](https://tienxdun.github.io/Joke_Generator/)**
+**[📦 Repository](https://github.com/TienxDun/Joke_Generator)** | **[🌐 Demo](https://joke-generator-one-sand.vercel.app/)**
 
 </td>
 <td width="50%">
