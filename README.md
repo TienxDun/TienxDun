@@ -19,13 +19,13 @@ I'm a passionate Full-Stack Developer from Ho Chi Minh City, Vietnam 🇻🇳, s
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,cs,java,php,html,css" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=js,cs,php,html,css" alt="Languages" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,bootstrap,sass" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" />
 
 ### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=php,dotnet,mongodb" alt="Backend" />
 
 ### Tools & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,vite,vercel" alt="Tools" />
