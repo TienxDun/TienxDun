@@ -63,99 +63,16 @@ I'm a passionate Full-Stack Developer from Ho Chi Minh City, Vietnam 🇻🇳, s
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 Distributed Database System
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://php.net) [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://microsoft.com/sql-server)
-
-A distributed database system for university management with 3-site SQL Server architecture, MongoDB audit logs, and Docker containerization.
-
-**[📦 Repository](https://github.com/TienxDun/Distributed_Database)**
-
-</td>
-<td width="50%">
-
-### 🎬 Cinema Management System
-[![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com) [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
-
-Full-featured cinema ticket booking system with seat selection, voucher management, and comprehensive reporting.
-
-**[📦 Repository](https://github.com/TienxDun/BanVeRapChieuPhim)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📚 E-TestHub
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/) [![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
-
-Online exam management platform with timed exams, automatic grading, and performance analytics for educational institutions.
-
-**[📦 Repository](https://github.com/TienxDun/E_TestHub)**
-
-</td>
-<td width="50%">
-
-### 📈 HUFLIT GPA Strategist
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://javascript.com)
-
-Strategic GPA calculator for HUFLIT students to plan their academic success.
-
-**[📦 Repository](https://github.com/TienxDun/HUFLIT_GPA_Strategist)** | **[🌐 Demo](https://tienxdun.github.io/HUFLIT_GPA_Strategist/)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌤️ Weather App
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://javascript.com)
-
-Real-time weather forecast application with a clean and responsive user interface.
-
-**[📦 Repository](https://github.com/TienxDun/WeatherAPI)** | **[🌐 Demo](https://tienxdun.github.io/WeatherAPI/)**
-
-</td>
-<td width="50%">
-
-### 😂 Random Joke Generator
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://javascript.com) [![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=flat&logo=google&logoColor=white)](https://ai.google)
-
-Interactive web app generating jokes with Vietnamese translation and AI-powered explanations using Gemini API.
-
-**[📦 Repository](https://github.com/TienxDun/Joke_Generator)** | **[🌐 Demo](https://joke-generator-one-sand.vercel.app/)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏓 Pong Game
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://javascript.com) [![HTML5 Canvas](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org)
-
-Classic Pong game with smooth 60 FPS gameplay, intelligent AI opponent, and responsive design using HTML5 Canvas.
-
-**[📦 Repository](https://github.com/TienxDun/Pong-Game)**
-
-</td>
-<td width="50%">
-
-### 🎨 First UI Project
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-
-My first web development project showcasing responsive design and modern UI principles.
-
-**[📦 Repository](https://github.com/TienxDun/First_Project_UI)** | **[🌐 Demo](https://tienxdun.github.io/First_Project_UI/)**
-
-</td>
-</tr>
-</table>
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **[Distributed Database System](https://github.com/TienxDun/Distributed_Database)** | University management system with 3-site SQL Server architecture & MongoDB audit logs. | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | [📦 Repo](https://github.com/TienxDun/Distributed_Database) |
+| **[Cinema Management System](https://github.com/TienxDun/BanVeRapChieuPhim)** | Full-featured cinema ticket booking system with seat selection & voucher management. | ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | [📦 Repo](https://github.com/TienxDun/BanVeRapChieuPhim) |
+| **[E-TestHub](https://github.com/TienxDun/E_TestHub)** | Online exam platform with timed exams, automatic grading & performance analytics. | ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | [📦 Repo](https://github.com/TienxDun/E_TestHub) |
+| **[HUFLIT GPA Strategist](https://github.com/TienxDun/HUFLIT_GPA_Strategist)** | Strategic GPA calculator for HUFLIT students to plan academic success. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [📦 Repo](https://github.com/TienxDun/HUFLIT_GPA_Strategist) <br/> [🌐 Demo](https://tienxdun.github.io/HUFLIT_GPA_Strategist/) |
+| **[Weather App](https://github.com/TienxDun/WeatherAPI)** | Real-time weather forecast application with a clean & responsive UI. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | [📦 Repo](https://github.com/TienxDun/WeatherAPI) <br/> [🌐 Demo](https://tienxdun.github.io/WeatherAPI/) |
+| **[Random Joke Generator](https://github.com/TienxDun/Joke_Generator)** | Interactive app generating jokes with AI-powered explanations (Gemini API). | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Google AI](https://img.shields.io/badge/-Google_AI-4285F4?style=flat-square&logo=google&logoColor=white) | [📦 Repo](https://github.com/TienxDun/Joke_Generator) <br/> [🌐 Demo](https://joke-generator-one-sand.vercel.app/) |
+| **[Pong Game](https://github.com/TienxDun/Pong-Game)** | Classic Pong game with smooth 60 FPS gameplay & intelligent AI opponent. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | [📦 Repo](https://github.com/TienxDun/Pong-Game) |
+| **[First UI Project](https://github.com/TienxDun/First_Project_UI)** | My first web development project showcasing responsive design. | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | [📦 Repo](https://github.com/TienxDun/First_Project_UI) <br/> [🌐 Demo](https://tienxdun.github.io/First_Project_UI/) |
 
 ---
 
