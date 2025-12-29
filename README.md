@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm TienxDun!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Tech+Innovator;Problem+Solver" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Front-end+Developer;UI%2FUX+Enthusiast;Tech+[...]" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full-Stack Developer from Ho Chi Minh City, Vietnam 🇻🇳, specializing in building robust web applications with modern technologies. I love creating user-friendly interfaces and solving complex problems through code. My journey in programming started with basic HTML/CSS and has evolved to include full-stack development, database systems, and exploring AI integration.
+I'm a passionate Front-end Developer from Ho Chi Minh City, Vietnam 🇻🇳, specializing in creating user-friendly interfaces and modern web experiences with cutting-edge technologies. I focus on building responsive, interactive, and visually appealing front-end applications.
 
 ## 🛠️ Tech Stack & Tools
 
