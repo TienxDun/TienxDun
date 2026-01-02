@@ -28,7 +28,7 @@ I'm a passionate Front-end Developer from Ho Chi Minh City, Vietnam 🇻🇳, sp
 <img src="https://skillicons.dev/icons?i=php,dotnet,mongodb" alt="Backend" />
 
 ### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,vite,vercel" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,vercel" alt="Tools" />
 
 </div>
 
