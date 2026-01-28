@@ -61,103 +61,99 @@ I'm a passionate Front-end Developer from Ho Chi Minh City, Vietnam 🇻🇳, sp
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
 <table>
-  <thead>
-    <tr>
-      <th width="20%">Project</th>
-      <th width="45%">Description</th>
-      <th width="20%">Tech Stack</th>
-      <th width="15%">Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong><a href="https://github.com/TienxDun/Distributed_Database">Distributed Database System</a></strong></td>
-      <td>University management system with 3-site SQL Server architecture & MongoDB audit logs.</td>
-      <td>
-        <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-      </td>
-      <td><a href="https://github.com/TienxDun/Distributed_Database">📦 Repo</a></td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://github.com/TienxDun/BanVeRapChieuPhim">Cinema Management System</a></strong></td>
-      <td>Full-featured cinema ticket booking system with seat selection & voucher management.</td>
-      <td>
-        <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET" />
-        <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-      </td>
-      <td><a href="https://github.com/TienxDun/BanVeRapChieuPhim">📦 Repo</a></td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://github.com/TienxDun/E_TestHub">E-TestHub</a></strong></td>
-      <td>Online exam platform with timed exams, automatic grading & performance analytics.</td>
-      <td>
-        <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET" />
-        <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-      </td>
-      <td><a href="https://github.com/TienxDun/E_TestHub">📦 Repo</a></td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://github.com/TienxDun/HUFLIT_GPA_Strategist">HUFLIT GPA Strategist</a></strong></td>
-      <td>Strategic GPA calculator for HUFLIT students to plan academic success.</td>
-      <td>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      </td>
-      <td>
-        <a href="https://github.com/TienxDun/HUFLIT_GPA_Strategist">📦 Repo</a><br/>
-        <a href="https://tienxdun.github.io/HUFLIT_GPA_Strategist/">🌐 Demo</a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://github.com/TienxDun/WeatherAPI">Weather App</a></strong></td>
-      <td>Real-time weather forecast application with a clean & responsive UI.</td>
-      <td>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      </td>
-      <td>
-        <a href="https://github.com/TienxDun/WeatherAPI">📦 Repo</a><br/>
-        <a href="https://tienxdun.github.io/WeatherAPI/">🌐 Demo</a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://github.com/TienxDun/Joke_Generator">Random Joke Generator</a></strong></td>
-      <td>Interactive app generating jokes with AI-powered explanations (Gemini API).</td>
-      <td>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/-Google_AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google AI" />
-      </td>
-      <td>
-        <a href="https://github.com/TienxDun/Joke_Generator">📦 Repo</a><br/>
-        <a href="https://joke-generator-one-sand.vercel.app/">🌐 Demo</a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://github.com/TienxDun/Pong-Game">Pong Game</a></strong></td>
-      <td>Classic Pong game with smooth 60 FPS gameplay & intelligent AI opponent.</td>
-      <td>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      </td>
-      <td><a href="https://github.com/TienxDun/Pong-Game">📦 Repo</a></td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://github.com/TienxDun/First_Project_UI">First UI Project</a></strong></td>
-      <td>My first web development project showcasing responsive design.</td>
-      <td>
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      </td>
-      <td>
-        <a href="https://github.com/TienxDun/First_Project_UI">📦 Repo</a><br/>
-        <a href="https://tienxdun.github.io/First_Project_UI/">🌐 Demo</a>
-      </td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th width="20%">Project</th>
+<th width="45%">Description</th>
+<th width="20%">Tech Stack</th>
+<th width="15%">Links</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong><a href="https://github.com/TienxDun/Distributed_Database">Distributed Database System</a></strong></td>
+<td>University management system with 3-site SQL Server architecture & MongoDB audit logs.</td>
+<td>
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+</td>
+<td>
+<a href="https://github.com/TienxDun/Distributed_Database">📦 Repo</a>
+
+
+
+
+<a href="https://distributed-database-tienxdun.onrender.com/">🌐 Demo</a>
+</td>
+</tr>
+<tr>
+<td><strong><a href="https://github.com/TienxDun/HUFLIT_GPA_Strategist">HUFLIT GPA Strategist</a></strong></td>
+<td>Strategic GPA calculator for HUFLIT students to plan academic success.</td>
+<td>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</td>
+<td>
+<a href="https://github.com/TienxDun/HUFLIT_GPA_Strategist">📦 Repo</a>
+
+
+
+
+<a href="https://tienxdun.github.io/HUFLIT_GPA_Strategist/">🌐 Demo</a>
+</td>
+</tr>
+<tr>
+<td><strong><a href="https://github.com/TienxDun/WeatherAPI">Weather App</a></strong></td>
+<td>Real-time weather forecast application with a clean & responsive UI.</td>
+<td>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</td>
+<td>
+<a href="https://github.com/TienxDun/WeatherAPI">📦 Repo</a>
+
+
+
+
+<a href="https://tienxdun.github.io/WeatherAPI/">🌐 Demo</a>
+</td>
+</tr>
+<tr>
+<td><strong><a href="https://github.com/TienxDun/Joke_Generator">Random Joke Generator</a></strong></td>
+<td>Interactive app generating jokes with AI-powered explanations (Gemini API).</td>
+<td>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-Google_AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google AI" />
+</td>
+<td>
+<a href="https://github.com/TienxDun/Joke_Generator">📦 Repo</a>
+
+
+
+
+<a href="https://joke-generator-one-sand.vercel.app/">🌐 Demo</a>
+</td>
+</tr>
+<tr>
+<td><strong><a href="https://github.com/TienxDun/First_Project_UI">First UI Project</a></strong></td>
+<td>My first web development project showcasing responsive design.</td>
+<td>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</td>
+<td>
+<a href="https://github.com/TienxDun/First_Project_UI">📦 Repo</a>
+
+
+
+
+<a href="https://tienxdun.github.io/First_Project_UI/">🌐 Demo</a>
+</td>
+</tr>
+</tbody>
 </table>
 
 ---
