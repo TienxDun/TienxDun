@@ -82,7 +82,6 @@ I'm a passionate Front-end Developer from Ho Chi Minh City, Vietnam 🇻🇳, sp
 <img src="https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 </td>
 <td>
-<a href="https://github.com/TienxDun/Distributed_Database">📦 Repo</a>
 
 
 
@@ -97,7 +96,6 @@ I'm a passionate Front-end Developer from Ho Chi Minh City, Vietnam 🇻🇳, sp
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </td>
 <td>
-<a href="https://github.com/TienxDun/HUFLIT_GPA_Strategist">📦 Repo</a>
 
 
 
@@ -113,7 +111,6 @@ I'm a passionate Front-end Developer from Ho Chi Minh City, Vietnam 🇻🇳, sp
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </td>
 <td>
-<a href="https://github.com/TienxDun/WeatherAPI">📦 Repo</a>
 
 
 
@@ -129,7 +126,6 @@ I'm a passionate Front-end Developer from Ho Chi Minh City, Vietnam 🇻🇳, sp
 <img src="https://img.shields.io/badge/-Google_AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google AI" />
 </td>
 <td>
-<a href="https://github.com/TienxDun/Joke_Generator">📦 Repo</a>
 
 
 
@@ -145,7 +141,6 @@ I'm a passionate Front-end Developer from Ho Chi Minh City, Vietnam 🇻🇳, sp
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </td>
 <td>
-<a href="https://github.com/TienxDun/First_Project_UI">📦 Repo</a>
 
 
 
