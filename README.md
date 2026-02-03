@@ -52,12 +52,6 @@ const tienxdun = {
 };
 ```
 
-- 🔭 I'm currently working on **exciting web projects**
-- 🌱 I'm learning **AI/ML integration & Cloud technologies**
-- 👯 I'm looking to collaborate on **innovative open-source projects**
-- 💬 Ask me about **Frontend Development, UI/UX, JavaScript**
-- ⚡ Fun fact: **I can turn coffee into code! ☕ → 💻**
-
 <br clear="right"/>
 
 ---
@@ -77,10 +71,10 @@ const tienxdun = {
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend" />
 
 ### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=php,dotnet,nodejs,mongodb,mysql&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=php,dotnet,nodejs,mongodb&theme=dark" alt="Backend" />
 
 ### 🛠️ Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,vercel,linux&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,vercel&theme=dark" alt="Tools" />
 
 </div>
 
@@ -88,78 +82,10 @@ const tienxdun = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats & Analytics
 
-<div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TienxDun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
-  
-  <!-- GitHub Streak Stats -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TienxDun&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub Streak"/>
-  
-</div>
-
-<div align="center">
-  
-  <!-- Top Languages Card -->
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TienxDun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-  
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TienxDun&custom_title=TienxDun's%20Contribution%20Graph&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area_color=00D4FF&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
-</div>
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TienxDun&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
-</div>
-
 <!-- Profile Summary Cards -->
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TienxDun&theme=tokyonight" alt="Profile Details" />
 </div>
-
----
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> Currently Learning
-
-<div align="center">
-
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-</div>
-
-<table align="center">
-<tr>
-<td>🤖</td>
-<td>Exploring AI integration with web applications (Gemini API)</td>
-</tr>
-<tr>
-<td>🐳</td>
-<td>Advanced Docker & containerization techniques</td>
-</tr>
-<tr>
-<td>☁️</td>
-<td>Cloud platforms and deployment strategies (AWS, GCP)</td>
-</tr>
-<tr>
-<td>📱</td>
-<td>Mobile development with React Native</td>
-</tr>
-<tr>
-<td>🎯</td>
-<td>Microservices architecture patterns</td>
-</tr>
-<tr>
-<td>📘</td>
-<td>TypeScript for type-safe development</td>
-</tr>
-</table>
 
 ---
 
@@ -179,43 +105,8 @@ const tienxdun = {
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/leutiendung/">
-    <img src="https://img.shields.io/badge/Let's_connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:Leutiendung.hht@gmail.com">
-    <img src="https://img.shields.io/badge/Send_me_an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/TienxDun">
-    <img src="https://img.shields.io/badge/Follow_me_on-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">💡</td>
-      <td><strong>Open for collaboration</strong> on interesting projects!</td>
-    </tr>
-    <tr>
-      <td align="center">📧</td>
-      <td>Feel free to reach out for <strong>freelance opportunities</strong> or just a tech chat!</td>
-    </tr>
-    <tr>
-      <td align="center">🌟</td>
-      <td>Always excited to <strong>learn new technologies</strong> and connect with fellow developers!</td>
-    </tr>
-  </table>
 </div>
 
 ---
