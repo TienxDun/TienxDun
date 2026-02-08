@@ -1,15 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=TienxDun&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-end%20Developer%20|%20UI/UX%20Enthusiast%20|%20Tech%20Explorer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=LeuTienDung&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-end%20Developer%20|%20UI/UX%20Enthusiast%20|%20Tech%20Explorer&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
   
-  <!-- Typing Animation Lines: 
-       🚀 Crafting Beautiful Web Experiences
-       🎨 Turning Ideas Into Pixel-Perfect Reality  
-       💻 Code • Create • Innovate 
-  -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Crafting+Beautiful+Web+Experiences;%F0%9F%8E%A8+Turning+Ideas+Into+Pixel-Perfect+Reality;%F0%9F%92%BB+Code+%E2%80%A2+Create+%E2%80%A2+Innovate)](https://git.io/typing-svg)
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Crafting+Beautiful+Web+Experiences;Turning+Ideas+Into+Pixel-Perfect+Reality;Code+Create+Innovate" alt="Typing SVG" />
   
 </div>
 
@@ -36,25 +32,19 @@
   </a>
 </div>
 
----
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
 ```javascript
 const tienxdun = {
-    location: "Ho Chi Minh City, Vietnam 🇻🇳",
+    location: "Hoc Mon, Ho Chi Minh City, Vietnam",
     role: "Front-end Developer",
     passions: ["Clean UI", "UX Design", "Web Performance"],
     currentFocus: "Building modern web experiences",
-    funFact: "I debug with console.log and I'm proud of it! 🐛"
 };
 ```
-
 <br clear="right"/>
 
----
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3p91t54506y&rid=giphy.gif" width="25"> Tech Stack & Tools
 
@@ -78,7 +68,6 @@ const tienxdun = {
 
 </div>
 
----
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats & Analytics
 
@@ -87,7 +76,6 @@ const tienxdun = {
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TienxDun&theme=tokyonight" alt="Profile Details" />
 </div>
 
----
 
 ## <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="30"> Featured Projects
 
@@ -104,13 +92,11 @@ const tienxdun = {
 
 </div>
 
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
----
 
 <div align="center">
   
@@ -119,17 +105,8 @@ const tienxdun = {
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <br/>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=0" width="100%"/>
-</div>
-
----
-
-<div align="center">
-  <sub>🔥 Built with ❤️ by <a href="https://github.com/TienxDun">TienxDun</a> | Last Updated: 2025</sub>
 </div>
