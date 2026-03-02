@@ -52,13 +52,14 @@ const tienxdun = {
 
 ### 💻 Languages & Markup
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind&theme=dark" alt="Frontend" />
 
 ### ⚙️ Backend & Database
 <img src="https://skillicons.dev/icons?i=php,dotnet,nodejs,mongodb&theme=dark" alt="Backend" />
@@ -83,6 +84,7 @@ const tienxdun = {
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
 |:-----------|:---------------|:---------------|:---------|
+| **[DigiXanh](https://github.com/TienxDun/DigiXanh)** | Full-stack e-commerce platform for buying & selling plants with Customer & Admin portals, JWT auth, and VNPay integration | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![DotNet](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | [![Demo](https://img.shields.io/badge/🌐-Demo-00D4FF?style=flat-square)](https://tienxdun.github.io/DigiXanh/) |
 | **[DigiBook](https://github.com/TienxDun/DigiBook)** | Digital book platform with category filtering, search, bookmarking, and responsive UI | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![Demo](https://img.shields.io/badge/🌐-Demo-00D4FF?style=flat-square)](https://tienxdun.github.io/DigiBook/) |
 | **[Distributed Database](https://github.com/TienxDun/Distributed_Database)** | University management system with 3-site SQL Server architecture & MongoDB audit logs | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | [![Demo](https://img.shields.io/badge/🌐-Demo-00D4FF?style=flat-square)](https://distributed-database-tienxdun.onrender.com/) |
 | **[HUFLIT GPA Strategist](https://github.com/TienxDun/HUFLIT_GPA_Strategist)** | Strategic GPA calculator for HUFLIT students to plan academic success | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![Demo](https://img.shields.io/badge/🌐-Demo-00D4FF?style=flat-square)](https://tienxdun.github.io/HUFLIT_GPA_Strategist/) |
