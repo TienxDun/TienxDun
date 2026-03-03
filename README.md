@@ -9,30 +9,6 @@
   
 </div>
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=TienxDun&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
-  ![GitHub Followers](https://img.shields.io/github/followers/TienxDun?logo=github&style=for-the-badge&color=0969da&labelColor=302d41)
-  ![GitHub Stars](https://img.shields.io/github/stars/TienxDun?logo=github&style=for-the-badge&color=gold&labelColor=302d41)
-  
-</div>
-
-<br/>
-
-<!-- Social Links -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/leutiendung/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:Leutiendung.hht@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/TienxDun">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 ```javascript
